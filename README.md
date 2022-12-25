@@ -15,7 +15,7 @@ Ignoring the limit, it would describe the slope of the secant line joining the p
 $$\dfrac{\partial f}{\partial x_i}(\overrightarrow{x}) = \lim_{h \to 0} \dfrac{f(\overrightarrow{x}+h\overrightarrow{e_i})-f(\overrightarrow{x})}{h}$$ where $e_i$ is the canonical basis vector with a $1$ in the i-th entry and $\overrightarrow{x} = (x_1, ... ,x_n)$.
 Similar to the one variable case, the partials of an $n$ variable scalar function indicate the slope of the line tangent to the " $n$ dimensional graph of $f$ " ,however, this tangent line is the one traced with the specific direction in which $f$ is differentiated.
 ## Project´s aims:
-Gain absolute understanding on what functions derivatives truly mean together and learning the basics of object animations, by producing two clean and smooth animations that use the derivative of a one variable function as well as the partials of a two variable function to draw the different tangent lines sliding across the graphs of them succesively.
+Gain absolute understanding on what functions derivatives truly mean together with learning the basics of object animations, by producing two clean and smooth animations that use the derivative of a one variable function as well as the partials of another two variable function to draw the different tangent lines sliding across the graphs of them smoothly.
   
   
 **Note**: In the code, the functions used are $f(x) = sin(x)$ and $f(x,y) = x^2-y^2$
