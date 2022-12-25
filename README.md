@@ -1,17 +1,9 @@
 # Visualizing derivatives
 This project uncovers the beautiful geometric meaning of functions whose graph is 2D and 3D thanks to the help of some of the concepts learned in multivariable calculus as well as the Matlab programming language. Below, one can enjoy the results:
 
-| Video 1  | Video 2 |
+| Example   | Example  |
 | ------------- | ------------- |
-| <video src="https://user-images.githubusercontent.com/13440061/129455220-23fa27a2-c8f0-4953-b291-b4893959d5d9.mp4">  | <video src="https://user-images.githubusercontent.com/13440061/129455220-23fa27a2-c8f0-4953-b291-b4893959d5d9.mp4">|
-
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-https://user-images.githubusercontent.com/97905110/209482239-3f52ac1a-8b4e-4d3a-977e-b8543f7e9491.mp4|
- |  https://user-images.githubusercontent.com/97905110/209482275-1a727fa2-6670-443a-aefa-a7dadf059faa.mp4
-
-
-
+| <video src="https://user-images.githubusercontent.com/97905110/209482552-227e6dd1-b7a0-4922-ae98-2d35f628baeb.mp4">  | <video src="https://user-images.githubusercontent.com/97905110/209482528-28b25840-1172-4306-8004-46e44991eee3.mp4">|
 
 
 ## The essence of the derivative of a function
