@@ -6,7 +6,7 @@ This project uncovers the beautiful geometric meaning of functions whose graph i
 | <video src="https://user-images.githubusercontent.com/97905110/209482552-227e6dd1-b7a0-4922-ae98-2d35f628baeb.mp4">  | <video src="https://user-images.githubusercontent.com/97905110/209482528-28b25840-1172-4306-8004-46e44991eee3.mp4">|
 
 **If you are on phone, check  [here1](https://drive.google.com/file/d/1lsrfZhpx0Z0uyQorOI1igZahGmtfi0yD/view?usp=drivesdk)and [here2](https://drive.google.com/file/d/1Ukw9xBE9RNmnlMieXhgJESRLjAZ-VNu8/view?usp=drivesdk)**
-
+[here too?](https://user-images.githubusercontent.com/97905110/209482552-227e6dd1)
 ## The essence of the derivative of a function
 * The derivative of a scalar function of one variable is defined as :
 $$\frac{df}{dx}(x) = \lim_{h \to 0} \dfrac{f(x+h)-f(x)}{h}$$
