@@ -2,10 +2,9 @@
 **This project allows anybody to define mathematical functions of one and two variables and then be able to interactively understand visually what derivatives are by the creation of special animations for each one of the functions defined**. A good understanding of these concepts is cruzial in order to **solve some of the biggest problems in science today**. **Derivatives are used everywhere in real life, used to desscribe phyisical phenomena such as velocity, acceleration,stock price volatility, a human´s heart rate ,population growth of a country and so much more. They are used to find the maximum or minimum of functions ,which is an inmense question that raises in any  optimization problems**.
 Please, check some samples below:
 
+![Dexponential_AdobeExpress](https://user-images.githubusercontent.com/97905110/212180205-8e778ab5-945c-4917-b033-43faef287e51.gif)      ![DSine_AdobeExpress](https://user-images.githubusercontent.com/97905110/212180435-c4f8686f-f0b2-4f19-bb46-a7a466a8a5dc.gif)
 
-| Example   | Example  |
-| ------------- | ------------- |
-| <video src="https://user-images.githubusercontent.com/97905110/209482552-227e6dd1-b7a0-4922-ae98-2d35f628baeb.mp4">  | <video src="https://user-images.githubusercontent.com/97905110/212178071-bd866522-889d-4a13-b9c7-b017acdf5da4.mp4"> |
+
 
 **If you are on phone, check  [here1](https://drive.google.com/file/d/1lsrfZhpx0Z0uyQorOI1igZahGmtfi0yD/view?usp=drivesdk) and [here2](https://drive.google.com/file/d/1Ukw9xBE9RNmnlMieXhgJESRLjAZ-VNu8/view?usp=drivesdk)**
 ## The essence of the derivative of a function
