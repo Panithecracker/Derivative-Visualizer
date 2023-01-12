@@ -19,14 +19,16 @@ $$\dfrac{\partial f}{\partial x_i}(\overrightarrow{x}) = \lim_{h \to 0} \dfrac{f
 Similar to the one variable case, the partials of an $n$ variable scalar function indicate the slope of the line tangent to the " $n$ dimensional graph of $f$ " ,however, this tangent line is the one traced with the specific direction in which $f$ is differentiated.
 
 ## The real leader : "MR GRADIENT"
-When it comes to differentiating a multivariable function, focusing on how f changes with respect to a small change in just one of the variables (partial differentiation) might be interesting to know, however, the gradient of f will investigate all the rates of change for each variable, putting it together in a single vector living in Rn. Although this vector can be of any dimension , the essence of the value it retains is captured for the 2 variable case. Intuitively and without going through much detail about it, the gradient is a vector that tells us from an specified point , the direction that should be taken in order to experiment the greatest increment in the value of f, or in other words: it tells you whats the direction of **steepest ascent** of f at being at a concrete point. In addition, the direction opposite to the gradient of f will be the one of **steepest descent**. 
+When it comes to differentiating a multivariable function, focusing on how f changes with respect to a small change in just one of the variables (partial differentiation) might be interesting to know, however, the gradient of f will investigate all the rates of change for each variable, putting it together in a single vector living in n dimensional space. Although this vector can be of any dimension , the essence of the value it retains is captured for the n = 2 variable case. Intuitively and without going through much detail about it, the gradient is a vector that tells us from an specified point , the direction that should be taken in order to experiment the greatest increment in the value of f, or in other words: it tells you whats the direction of **steepest ascent** of f at being at a concrete point. In addition, the direction opposite to the gradient of f will be the one of **steepest descent**. 
+$$\nabla F(x,y) = [\dfrac{\partial f}{\partial x} , \dfrac{\partial f}{\partial y}]$$
 The program made also animates the presence of the gradient of any user predefined function $f(x,y)$ at each point, denoted wtih a unit length vector coming out from the current point.
 ## Project´s aims and skills gained:
-⋅⋅* Coding : Learned a lot about being able to animate and visualize abstract ideas from calculus
-⋅⋅* Mathematically: The development of this project has helped a lot in grasping the geometrical mathematical meaning of derivatives
+-Coding : Learned a lot about being able to animate and visualize abstract ideas from calculus
+  
+-Mathematically: The development of this project has helped a lot in grasping the geometrical mathematical meaning of derivatives
 
   
   
-**Note**: In the pictures the functions used are $f(x) = sin(x)$ and $f(x,y) = x^2-y^2$
+**Note**: In the pictures the functions used are $f(x) = sin(x)$ and $f(x,y) = exp(-x^2-y^2)$
 
 **Now, you can define any functions you`d like by just writing the expressions in the bottom of the script :)**
