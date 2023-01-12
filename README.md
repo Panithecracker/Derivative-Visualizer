@@ -4,9 +4,6 @@ Please, check some samples below:
 
 ![Dexponential_AdobeExpress](https://user-images.githubusercontent.com/97905110/212180205-8e778ab5-945c-4917-b033-43faef287e51.gif)      ![DSine_AdobeExpress](https://user-images.githubusercontent.com/97905110/212180435-c4f8686f-f0b2-4f19-bb46-a7a466a8a5dc.gif)
 
-
-
-**If you are on phone, check  [here1](https://drive.google.com/file/d/1lsrfZhpx0Z0uyQorOI1igZahGmtfi0yD/view?usp=drivesdk) and [here2](https://drive.google.com/file/d/1Ukw9xBE9RNmnlMieXhgJESRLjAZ-VNu8/view?usp=drivesdk)**
 ## The essence of the derivative of a function
 * The derivative of a scalar function of one variable is defined as :
 $$\frac{df}{dx}(x) = \lim_{h \to 0} \dfrac{f(x+h)-f(x)}{h}$$
@@ -17,11 +14,11 @@ $$\dfrac{\partial f}{\partial x_i}(\overrightarrow{x}) = \lim_{h \to 0} \dfrac{f
 Similar to the one variable case, the partials of an $n$ variable scalar function indicate the slope of the line tangent to the " $n$ dimensional graph of $f$ " ,however, this tangent line is the one traced with the specific direction in which $f$ is differentiated.
 
 ## The real leader : "MR GRADIENT"
-When it comes to differentiating a multivariable function, focusing on how f changes with respect to a small change in just one of the variables (partial differentiation) might be interesting to know, however, the gradient of f will investigate all the rates of change for each variable, putting it together in a single vector living in n dimensional space. Although this vector can be of any dimension , the essence of the value it retains is captured for the n = 2 variable case. Intuitively and without going through much detail about it, the gradient is a vector that tells us from an specified point , the direction that should be taken in order to experiment the greatest increment in the value of f, or in other words: it tells you whats the direction of **steepest ascent** of f at being at a concrete point. In addition, the direction opposite to the gradient of f will be the one of **steepest descent**. 
+When it comes to differentiating a multivariable function, focusing on how f changes with respect to a small change in just one of the variables (partial differentiation) might be interesting to know, however, the gradient of f will investigate all the rates of change for each variable, putting it together in a single vector living in n dimensional space. Although this vector can be of any dimension , the essence of the value it retains is captured for the n = 2 variable case. Intuitively and without going through much detail about it, the gradient is a vector that tells us from an specified point , the direction that should be taken in order to experiment the greatest increment in the value of f or ,in other words: it tells you what the direction of **steepest ascent** of f at a concrete point is. In addition, the direction opposite to the gradient of f will be the one of **steepest descent**. 
 $$\nabla F(x,y) = [\dfrac{\partial f}{\partial x} , \dfrac{\partial f}{\partial y}]$$
-The program made also animates the presence of the gradient of any user predefined function $f(x,y)$ at each point, denoted wtih a unit length vector coming out from the current point.
+The program made also animates the presence of the gradient of any user predefined function $f(x,y)$ at each point, denoted with a unitary vector coming out from the current point.
 ## Project´s aims and skills gained:
--Coding : Learned a lot about being able to animate and visualize abstract ideas from calculus
+-Coding : Learned a lot from being able to animate and visualize abstract ideas of calculus
   
 -Mathematically: The development of this project has helped a lot in grasping the geometrical mathematical meaning of derivatives
 
