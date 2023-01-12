@@ -29,4 +29,4 @@ The program made also animates the presence of the gradient of any user predefin
   
 **Note**: In the pictures the functions used are $f(x) = sin(x)$ and $f(x,y) = exp(-x^2-y^2)$
 
-**Now, you can define any functions you`d like by just writing the expressions in the bottom of the script :)**
+**Now, you can define any function and see its derivatives and gradient functions in action:)**
