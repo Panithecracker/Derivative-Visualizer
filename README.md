@@ -15,8 +15,8 @@ Similar to the one variable case, the partials of an $n$ variable scalar functio
 
 ## The real leader : "MR GRADIENT"
 When it comes to differentiating a multivariable function, focusing on how f changes with respect to a small change in just one of the variables (partial differentiation) might be interesting to know, however, the gradient of f will investigate all the rates of change for each variable, putting it together in a single vector living in n dimensional space. Although this vector can be of any dimension , the essence of the value it retains is captured for the n = 2 variable case. Intuitively and without going through much detail about it, the gradient is a vector that tells us from an specified point , the direction that should be taken in order to experiment the greatest increment in the value of f or ,in other words: it tells you what the direction of **steepest ascent** of f at a concrete point is. In addition, the direction opposite to the gradient of f will be the one of **steepest descent**. 
-Actually, the key of machine learning algorithms is based around the idea of finding local extrema of a cost function that informs the AI model how good its been doing. Then, the AI mist tru to minimize this codt function which is done using algorithms such as Gradient Descent.
-$$\nabla F(x,y) = [\dfrac{\partial f}{\partial x} , \dfrac{\partial f}{\partial y}]$$
+Actually, the key of machine learning algorithms is based around the idea of finding local extrema of a cost function that informs the AI model how good its been doing. Then, the AI must minimize this cost function ,which is done by using algorithms such as Gradient Descent.
+$$\nabla F(x,y) = [\dfrac{\partial f}{\partial x} , \dfrac{\partial f}{\partial y}]$$ (the gradient of f for the 2 variable case)
 The program made also animates the presence of the gradient of any user predefined function $f(x,y)$ at each point, denoted with a unitary vector coming out from the current point.
 ## Project´s aims and skills gained:
 -Coding : Learned a lot from being able to animate and visualize abstract ideas of calculus
